@@ -1,9 +1,5 @@
 # JavaScript-Topshiriqlar
 
-// ==========================================
-// JavaScript fanidan 20 ta Topshiriq yechimlari
-// ==========================================
-
 // 1. Foydalanuvchining ismi va yoshini o'zgaruvchilarda saqlang va ekranga chiqaring.
 let ism = prompt("Ismingizni kiriting:");
 let yosh = prompt("Yoshingizni kiriting:");
